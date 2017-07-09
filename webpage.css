@@ -1,8 +1,23 @@
 body {min-height: 2000px; padding-top: 70px; }
 
-.container-fluid {
+.preeti-padder {
     padding-top: 30px;
     padding-bottom: 30px;
-	padding-left: 50px;
-	padding-right: 50px;
+	text-align: justify;
 }
+
+.row.content {height: 450px}
+
+ .sidenav {
+    padding-top: 20px;
+    background-color: #ffffff;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 767px) {
+.sidenav {
+    height: auto;
+    padding: 15px;
+}
+.row.content {height:auto;}
