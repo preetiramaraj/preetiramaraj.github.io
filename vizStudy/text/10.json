@@ -1,0 +1,46 @@
+[{
+        "Question": "Select question to ask",
+        "Answer": ""
+    },{
+        "Question": "What do you see?",
+        "Answer": "A green loc_b location is below the blue block. A blue loc_c location is below the green block. A green loc_a location is below the red block. A blue block is on the green loc_b location. A green block is on the blue loc_c location. A red block is on the green loc_a location."
+},{
+        "Question": "What is 'clear'?",
+        "Answer": "If an object is not below an object , then it is clear."
+    }, {
+        "Question": "What is below the blue block 2?",
+        "Answer": "A green loc_b location."
+    }, {
+        "Question": "What is below the green block 3?",
+        "Answer": "A blue loc_c location."
+    }, {
+        "Question": "What is below the red block 1?",
+        "Answer": "A green loc_a location."
+    },{
+        "Question": "What is on the green loc_a location?",
+        "Answer": "A red block."
+    },{
+        "Question": "What is on the green loc_b location?",
+        "Answer": "A blue block."
+    },{
+        "Question": "What is on the blue loc_c location?",
+        "Answer": "A green block."
+    },{
+	"Question": "Describe the red block 1.",
+        "Answer": "The shape is block. The color is red. The volume is 1.0 . A green loc_a location is below the red block. "
+    },{
+	"Question": "Describe the blue block 2.",
+        "Answer": "The shape is block. The color is blue. The volume is 2.0 . A green loc_b location is below the blue block. "
+    },{
+	"Question": "Describe the green block 3.",
+        "Answer": "The shape is block. The color is green. The volume is 3.0 . A blue loc_c location is below the green block. "
+    },{
+	"Question": "Describe the green loc_a location.",
+        "Answer": "The shape is location. The color is green. The volume is 4.0 . A red block is on the green loc_a location. "
+    },{
+	"Question": "Describe the green loc_b location.",
+        "Answer": "The shape is location. The color is green. The volume is 4.0 . A blue block is on the green loc_b location. "
+    },{
+	"Question": "Describe the blue loc_c location.",
+        "Answer": "The shape is location. The color is blue. The volume is 4.0 . A green block is on the blue loc_c location. "
+}]

@@ -1,0 +1,56 @@
+[{
+        "Question": "Select question to ask",
+        "Answer": ""
+    },{
+        "Question": "What do you see?",
+        "Answer": "A grid-4 location and a grid-6 location are diagonal-with the grid-2 location. A grid-2 location and a grid-8 location are diagonal-with the grid-6 location. A grid-2 location and a grid-8 location is diagonal-with the grid-4 location. A grid-1 location, a blue grid-3 location, a grid-7 location and a grid-9 location are diagonal-with the grid-5 location. A grid-5 location is diagonal-with the blue grid-3 location. A grid-5 location is diagonal-with the grid-9 location. A grid-5 location is diagonal-with the grid-7 location. A grid-5 location is diagonal-with the grid-1 location. A grid-4 location and a grid-6 location are diagonal-with the grid-8 location. A black block is diagonal-with the black block. A black block is diagonal-with the black block. A grid-1 location, a blue grid-3 location, a grid-4 location, a grid-5 location and a grid-6 location are near the grid-2 location. A grid-2 location, a grid-5 location and a grid-6 location are near the blue grid-3 location. A grid-2 location, a blue grid-3 location, a grid-5 location, a grid-8 location and a grid-9 location are near the grid-6 location. A grid-2 location, a grid-4 location and a grid-5 location are near the grid-1 location. A grid-1 location, a grid-2 location, a grid-5 location, a grid-7 location and a grid-8 location are near the grid-4 location. A grid-1 location, a grid-2 location, a blue grid-3 location, a grid-4 location, a grid-6 location, a grid-7 location, a grid-8 location and a grid-9 location are near the grid-5 location. A grid-4 location, grid-5 location, a grid-9 location, a grid-6 location and a grid-7 location are near the grid-8 location. A grid-5 location, a grid-6 location and a grid-8 location are near the grid-9 location. A grid-4 location, a grid-5 location and a grid-8 location are near the grid-7 location. A blue block and a black block are near the black block. A blue block and a black block are near the black block. A black block and a black block are near the blue block. A grid-2 location is below the black block. A grid-4 location is below the black block. A grid-1 location is below the blue block. A black block is on the grid-2 location. A black block is on the grid-4 location. A blue block is on the grid-1 location."
+    }, {
+        "Question": "What is below the blue block?",
+        "Answer": "A grid-1 location."
+    }, {
+        "Question": "What is below the black block 10?",
+        "Answer": "A grid-4 location."
+    }, {
+        "Question": "What is below the black block 11?",
+        "Answer": "An grid-2 location"
+    },{
+        "Question": "What is on the grid-1 location?",
+        "Answer": "A blue block."
+    },{
+        "Question": "What is on the grid-2 location?",
+        "Answer": "A black block."
+    },{
+        "Question": "What is on the grid-3 location?",
+        "Answer": "Nothing."
+    },{
+        "Question": "What is on the grid-4 location?",
+        "Answer": "A black block."
+    },{
+        "Question": "What is on the grid-5 location?",
+        "Answer": "Nothing."
+    },{
+        "Question": "What is on the grid-6 location?",
+        "Answer": "Nothing."
+    },{
+        "Question": "What is on the grid-7 location?",
+        "Answer": "Nothing."
+    },{
+        "Question": "What is on the grid-8 location?",
+        "Answer": "Nothing."
+    },{
+        "Question": "What is on the grid-9 location?",
+        "Answer": "Nothing."
+    },{
+	"Question": "Describe the grid-1 location?",
+        "Answer": "The shape is location. A grid-5 location is diagonal-with the grid-1 location. A grid-2 location is near the grid-1 location. A grid-4 location is near the grid-1 location. A blue block is on the grid-1 location."
+    },{
+	"Question": "Describe the grid-2 location?",
+        "Answer": "The shape is location. A grid-4 location is diagonal-with the grid-2 location. A grid-6 location is diagonal-with the grid-2 location. A grid-1 location is near the grid-2 location. A grid-5 location is near the grid-2 location. A grid-4 location is near the grid-2 location. A blue grid-3 location is near the grid-2 location. A grid-6 location is near the grid-2 location. A black block is on the grid-2 location. "
+    },{
+	"Question": "Describe the grid-3 location?",
+        "Answer": "The shape is location. The color is blue. A grid-5 location is diagonal-with the grid-3 location. A grid-6 location is near the grid-3 location. A grid-2 location is near the grid-3 location."
+    },{
+	"Question": "Describe the grid-4 location?",
+        "Answer": "The shape is location. A grid-2 location is diagonal-with the grid-4 location. A grid-8 location is diagonal-with the grid-4 location. A grid-1 location is near the grid-4 location. A grid-2 location is near the grid-4 location. A grid-5 location is near the grid-4 location. A grid-8 location is near the grid-4 location. A grid-7 location is near the grid-4 location. A black block is on the grid-4 location. "
+    }
+]
