@@ -1,0 +1,43 @@
+[{
+        "Question": "Select question to ask",
+        "Answer": ""
+    },{
+        "Question": "What do you see?",
+        "Answer": "A loc_b location is below the green block. A red block is below the orange block. A loc_a location is below the red block. A green block is on the loc_b location. A red block is on the loc_a location. An orange block is on the red block. I see a loc_c location."
+ }, {
+        "Question": "What is below the orange block 6?",
+        "Answer": "A red block."
+    }, {
+        "Question": "What is below the red block 5?",
+        "Answer": "A loc_a location."
+    }, {
+        "Question": "What is below the green block 4?",
+        "Answer": "A loc_b location"
+    },{
+        "Question": "What is on the loc_a location?",
+        "Answer": "A red block."
+    },{
+        "Question": "What is on the loc_b location?",
+        "Answer": "A green block."
+    },{
+        "Question": "What is on the loc_c location?",
+        "Answer": "Nothing."
+    },{
+	"Question": "Describe the orange block 6.",
+        "Answer": "The color is orange. The shape is block. A red block is below the orange block. "
+    },{
+	"Question": "Describe the red block 5.",
+        "Answer": "The color is red. The shape is block. A loc_a location is below the red block. An orange block is on the red block. "
+    },{
+	"Question": "Describe the green block 4.",
+        "Answer": "The color is green. The shape is block. A loc_b location is below the green block. "
+    },{
+	"Question": "Describe the loc_a location.",
+        "Answer": "The shape is location. A red block is on the loc_a location. "
+    },{
+	"Question": "Describe the loc_b location.",
+        "Answer": "The shape is location. A green block is on the loc_b location. "
+    },{
+	"Question": "Describe the loc_c location.",
+        "Answer": "The shape is location."
+}]

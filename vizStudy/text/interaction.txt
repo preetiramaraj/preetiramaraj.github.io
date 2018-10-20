@@ -1,0 +1,3 @@
+Mentor: The goal is that a medium block is on a large block and the large block is on a blue location.<br/> Rosie: I cannot see the goal.
+Mentor: The goal is that all the blocks are on the blue location. <br/> Rosie: I cannot see the goal. The blocks are not on the blue location.
+

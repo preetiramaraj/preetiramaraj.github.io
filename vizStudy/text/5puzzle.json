@@ -1,0 +1,38 @@
+[{
+        "Question": "Select question to ask",
+        "Answer": ""
+    },{
+        "Question": "What do you see?",
+        "Answer": "A red block is diagonal-with the blue block. A blue block is diagonal-with the red block. A red block is diagonal-with the yellow block. A yellow block is diagonal-with the red block. A blue loc_f location is diagonal-with the orange loc_b location. An orange loc_b location is diagonal-with the blue loc_f location. A yellow loc_d location is diagonal-with the orange loc_b location. An orange loc_b location is diagonal-with the yellow loc_d location. An orange block is near the yellow block. A yellow block is near the orange block. A red block is near the blue block. A blue block is near the red block. A red block is near the green block. A green block is near the red block. A red block is near the orange block. An orange block is near the red block. A blue block is near the green block. A green block is near the blue block. A red block is near the yellow block. A yellow block is near the red block. A blue loc_f location is near the orange loc_b location. An orange loc_b location is near the blue loc_f location. A blue loc_f location is near the loc_c location. A loc_c location is near the blue loc_f location. A yellow loc_d location is near the red loc_a location. A yellow loc_d location is near the orange loc_b location. A red loc_a location is near the yellow loc_d location. An orange loc_b location is near the yellow loc_d location. An orange loc_b location is near the loc_c location. A loc_c location is near the orange loc_b location. A red loc_a location is near the orange loc_b location. An orange loc_b location is near the red loc_a location. A red loc_a location is below the orange block. An orange loc_b location is below the red block. A blue loc_f location is below the blue block. A loc_c location is below the green block. A yellow loc_d location is below the yellow block. An orange block is on the red loc_a location. A red block is on the orange loc_b location. A blue block is on the blue loc_f location. A green block is on the loc_c location. A yellow block is on the yellow loc_d location. "
+    }, {
+        "Question": "What is on the blue location?",
+        "Answer": "A blue block"
+    }, {
+        "Question": "What is on the yellow location?",
+        "Answer": "A yellow block"
+    }, {
+        "Question": "What is on the orange location?",
+        "Answer": "A red block"
+    }, {
+        "Question": "What is on the red location?",
+        "Answer": "An orange block"
+    }, {
+        "Question": "What is below the green block?",
+        "Answer": "A loc_c location"
+    },{
+        "Question": "What is 'adjacent'?",
+        "Answer": "If an object is not diagonal-with an object and the object is near the object , then the object and the object are adjacent."
+    }, {
+        "Question": "What is 'clear'?",
+        "Answer": "If an object is not below an object , then it is clear."
+    },{
+        "Question": "What is the volume of the small block?",
+        "Answer": "The volume is 6.4e-05."
+    }, {
+	"Question": "Describe the small block?",
+        "Answer": "The size is small. The volume is 6.4e-05. A medium block is below the small block."
+       }, {
+	"Question": "Describe the large block?",
+        "Answer": "The size is large. The volume is 0.000343. A blue loc_c location is below the large block. A medium block is on the large block. "
+       }]
+

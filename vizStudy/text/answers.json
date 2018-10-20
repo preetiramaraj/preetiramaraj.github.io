@@ -1,0 +1,81 @@
+[{
+	"1": "There is no green location.",
+	"2": "Location 5 is not clear",
+	"3": "Location 4 is not clear and location 5 is not clear",
+	"4": "None of the above"
+    }, {
+        "1": "There are only two captured locations.",
+	"2": "There are three captured locations but they are not linear.",
+	"3": "The robot cannot detect the captured locations.",
+	"4": "None of the above"
+    }, {
+        "1": "There are five matched locations but the robot cannot see them",
+	"2": "The robot does not know the meaning of matched.",
+	"3": "Location 10 is not matched.",
+	"4": "None of the above"
+    }, {
+        "1": "Three locations are occupied but they are not linear.",
+	"2": "There are only two occupied locations.",
+	"3": "The robot cannot detect all the blocks in its perception.",
+	"4": "None of the above"
+    }, {
+        "1": "All red blocks are on the locations but the robot cannot detect them.",
+	"2": "There are no red blocks.",
+	"3": "Red blocks 10 and 11 are not on any location.",
+	"4": "None of the above"
+    }, {
+        "1": "The blue block 12 is not adjacent to a clear location",
+	"2": "There is no clear location that is adjacent to the blue block 12.",
+	"3": "The robot cannot detect a blue block.",
+	"4": "None of the above"
+    }, {
+        "1": "There are no blocks.",
+	"2": "There is clear object that is larger but the robot cannot detect it.",
+	"3": "There is no clear object that is larger than any of the blocks.",
+	"4": "None of the above"
+    }, {
+        "1": "The blue block 12 is not on any location.",
+	"2": "The blue block 12 is adjacent to a clear location but the robot cannot detect it.",
+	"3": "The robot cannot detect the blue block 12.",
+	"4": "None of the above"
+    }, {
+        "1": "A block is not adjacent to a clear location.",
+	"2": "None of the locations are clear.",
+	"3": "There is a clear location but the robot cannot detect it.",
+	"4": "None of the above"
+    }, {
+        "1": "The clear location is not larger than the block.",
+	"2": "There is no clear block.",
+	"3": "There is no clear location.",
+	"4": "None of the above"
+    }, {
+        "1": "There are red blocks but none of them are free.",
+	"2": "There is a free red block but the robot cannot detect it.",
+	"3": "There are no free blue blocks.",
+	"4": "None of the above"
+    }, {
+        "1": "The large block 5 is not on a blue block.",
+	"2": "There is no blue block.",
+	"3": "There is a blue block but the robot cannot detect it.",
+	"4": "None of the above"
+    }, {
+        "1": "The medium block 2 is on a large block 1 but the robot cannot detect it.",
+	"2": "There is a medium block 2 but the robot cannot detect it.",
+	"3": "The medium block 2 is not on a large block 1",
+	"4": "None of the above"
+    }, {
+        "1": "The blue block 12 is not on the blue location.",
+	"2": "There is a blue block 12 but the robot cannot detect it.",
+	"3": "The black block is on the blue location.",
+	"4": "None of the above"
+    },  {
+        "1": "The blocks are not on the blue location.",
+	"2": "Only the red block 1 is on the blue location.",
+	"3": "The robot cannot detect all the blocks in its perception.",
+	"4": "None of the above"
+    },  {
+        "1": "The red block 5 is not on the green block 4.",
+	"2": "The red block 5 is not below the orange block 6.",
+	"3": "There is no red block.",
+	"4": "None of the above"
+    }]

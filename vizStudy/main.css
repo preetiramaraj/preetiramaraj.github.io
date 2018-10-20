@@ -1,0 +1,82 @@
+#all-buttons {
+    display: none;
+    width: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.btn {
+    font-size: 24px;
+    padding: 5px 10px;
+}
+
+.conv_set {
+    display: none;
+}
+
+.display_img {
+    border: 2px solid black;
+    display: none;
+    height: auto;
+}
+
+#dropdown {
+    display: none;
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#visual-buttons {
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+select {
+    font-size: 24px;
+    padding: 5px 10px;
+    max-width:800px;
+}
+
+.example {
+    display: none;
+    text-align: justify;
+}
+
+.next {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#serialno {
+    float: left;
+    width: 95%;
+}
+
+#timer {
+    float: left;
+    width: 5%;
+    display: none;
+}
+
+#user-input {
+    display: none;
+    margin-top: 150px;
+    width: 100%;
+}
+
+#user-input-options {
+    display: none;
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+}
