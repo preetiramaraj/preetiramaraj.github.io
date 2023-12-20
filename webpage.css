@@ -17,6 +17,10 @@ body {
     height: 100%;
 }
 
+ul li:nth-child(n+5) {
+    display:none;
+}
+
 @media screen and (max-width: 767px) {
 .sidenav {
     height: auto;
