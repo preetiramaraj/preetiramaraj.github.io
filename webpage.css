@@ -1,6 +1,10 @@
 body {
 	min-height: 2000px;
-	font-size: 15px
+	font-size: 15px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #808080;
 }
 
 .preeti-padder {
